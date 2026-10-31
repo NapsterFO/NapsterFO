@@ -2,10 +2,16 @@
 
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=20&pause=1200&color=FF7A00&center=true&vCenter=true&width=620&lines=%D0%9F%D0%B8%D1%88%D1%83%20%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D1%8B%20%D0%B4%D0%BB%D1%8F%20Windows%20%D0%BD%D0%B0%20C%23%20%D0%B8%20Python;%D0%94%D0%B5%D0%BB%D0%B0%D1%8E%203D-%D0%B8%D0%B3%D1%80%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%98%D0%B3%D1%80;DriverScout%20%C2%B7%20HiddenPath%20%E2%80%94%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%B4" alt="Пишу программы для Windows и 3D-игры"></p>
 
+<img src="assets/cat.svg" align="right" width="150">
+
 ## 👋 Привет!
 
 Я **Napster** — делаю удобные программы для Windows и браузерные 3D-игры.
 Всё, что лежит в открытом доступе, можно скачать и пользоваться бесплатно.
+
+<br clear="right">
+
+<img src="assets/bunny.svg" align="right" width="80">
 
 ## 🛠 Мои программы
 
@@ -32,6 +38,8 @@
 
 ## 🎮 Мои игры
 
+<img src="assets/fish.svg" width="100%">
+
 | Игра | О чём |
 |---|---|
 | **Чертог Шипов** | 3D-рогалик: подземелья, лут и боссы |
@@ -48,8 +56,12 @@
 
 <p align="center"><img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,html,css,threejs,windows,git,github&theme=dark"></p>
 
+<img src="assets/owl.svg" align="right" width="70">
+
 ## 🔥 Активность
 
 <p align="center"><img src="https://streak-stats.demolab.com?user=NapsterFO&theme=dark&hide_border=true&background=0D1117&ring=FF7A00&fire=FF7A00&currStreakLabel=FF7A00&locale=ru" width="520"></p>
+
+<img src="assets/chase.svg" width="100%">
 
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff3d00,100:ff7a00&height=100&section=footer" width="100%"></p>
