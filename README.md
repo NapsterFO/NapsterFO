@@ -47,6 +47,24 @@
 </td>
 </tr></table>
 
+## 🧡 Поддержка
+
+<table><tr>
+<td width="220" align="center" valign="middle">
+<a href="https://donatepay.ru/don/1541915"><img src="assets/donate-qr.svg" width="180" alt="QR-код: поддержать Napster на DonatePay"></a>
+</td>
+<td valign="middle">
+
+Все мои программы бесплатные, без рекламы и подписок, и такими останутся. Я делаю их в свободное время и сам слежу, чтобы они работали после каждого обновления Windows и Android.
+
+Если DriverScout, Hidden Path или Blindspot сэкономили вам время и нервы, можно сказать спасибо донатом. Любая сумма помогает выпускать обновления чаще, а для меня это лучший знак, что работа кому-то нужна.
+
+<a href="https://donatepay.ru/don/1541915"><img src="https://img.shields.io/badge/%D0%9F%D0%BE%D0%B4%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D1%82%D1%8C-DonatePay-ff7a00?style=for-the-badge"></a>
+
+Наведите камеру телефона на QR-код или просто нажмите на него. А если донат не вариант, поставьте ⭐ репозиторию или расскажите о программе друзьям: это тоже очень помогает.
+</td>
+</tr></table>
+
 ## 🎮 Мои игры
 
 <img src="assets/fish.svg" width="100%">
